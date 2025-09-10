@@ -10,8 +10,8 @@ A compact portfolio project that takes a de-identified OCD patient dataset throu
 - **Status:** finished; refreshable report with light, clean measures.
 
 ---
-## 📸 Dashboard Screenshots
-!(screenshot/dashboard.png)
+## 📸 Dashboard Screenshot
+![](screenshot/dashboard.png)
 
 
 ---
