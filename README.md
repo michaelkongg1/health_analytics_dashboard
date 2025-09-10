@@ -10,7 +10,11 @@ A compact portfolio project that takes a de-identified OCD patient dataset throu
 - **Status:** finished; refreshable report with light, clean measures.
 
 ---
+## 📸 Dashboard Screenshots
+!(screenshot/dashboard.png)
 
+
+---
 ## 📦 Data (summary)
 - **Rows:** 1,500  |  **Columns:** 17  
 - **Demographics:** Age 18–75 (mean ≈ 46.8), Gender ~(50/50), 4 ethnic groups.  
