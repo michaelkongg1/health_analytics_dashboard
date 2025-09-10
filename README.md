@@ -1,4 +1,4 @@
-# 🧠 OCD Health Analytics — SQL + Power BI (Concise)
+# 🧠 OCD Health Analytics — SQL + Power BI 
 
 A compact portfolio project that takes a de-identified OCD patient dataset through **SQL exploration/cleaning** and a **Power BI dashboard**. I **skipped the Excel/Power Query dashboard duplication** to avoid repetition—Power BI is the primary front-end.
 
